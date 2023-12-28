@@ -1,0 +1,98 @@
+type: "HolisticCustomCpu"
+
+# ###################################################
+# inputs
+input_stream: "IMAGE:image"
+input_stream: "POSE_DETECTION:pose_detection"
+
+# configurations
+input_side_packet: "MODEL_COMPLEXITY:model_complexity"
+input_side_packet: "REFINE_FACE_LANDMARKS:refine_face_landmarks"
+
+# outputs
+output_stream: "POSE_RECT_FROM_DETECTION:pose_rect_from_detection"
+output_stream: "POSE_LANDMARKS:pose_landmarks"
+output_stream: "POSE_RECT_FROM_LANDMARKS:pose_rect_from_landmarks"
+output_stream: "FACE_LANDMARKS:face_landmarks"
+output_stream: "FACE_RECT_FROM_LANDMARKS:face_rect_from_landmarks"
+output_stream: "LEFT_HAND_LANDMARKS:left_hand_landmarks"
+output_stream: "LEFT_HAND_ROI:left_hand_roi"
+output_stream: "RIGHT_HAND_LANDMARKS:right_hand_landmarks"
+output_stream: "RIGHT_HAND_ROI:right_hand_roi"
+# ###################################################
+
+
+# Possible, recuperer le score de detection du visage
+# mais il faut exposer (importer ici) tout le code de
+# - FaceLandmarksFromPoseCpu
+# - FaceLandmarkCPU
+#     Converts the face-flag tensor into a float that represents the confidence score of face presence.
+#     @ FLOAT:face_presence_score
+
+
+node {
+  calculator: "ImagePropertiesCalculator"
+  input_stream: "IMAGE:image"
+  output_stream: "SIZE:image_size"
+}
+
+node {
+  calculator: "PoseDetectionToRoi"
+  input_stream: "DETECTION:pose_detection"
+  input_stream: "IMAGE_SIZE:image_size"
+  output_stream: "ROI:pose_rect_from_detection"
+}
+
+node {
+  calculator: "PoseLandmarkByRoiCpu"
+  input_side_packet: "MODEL_COMPLEXITY:model_complexity"
+  input_stream: "IMAGE:image"
+  input_stream: "ROI:pose_rect_from_detection"
+  output_stream: "LANDMARKS:pose_landmarks"
+  output_stream: "AUXILIARY_LANDMARKS:auxiliary_landmarks"
+  output_stream: "WORLD_LANDMARKS:world_landmarks"
+  output_stream: "SEGMENTATION_MASK:segmentation_mask"
+}
+
+node {
+  calculator: "PoseLandmarksToRoi"
+  input_stream: "LANDMARKS:auxiliary_landmarks"
+  input_stream: "IMAGE_SIZE:image_size"
+  output_stream: "ROI:pose_rect_from_landmarks"
+}
+
+node {
+  calculator: "SplitNormalizedLandmarkListCalculator"
+  input_stream: "pose_landmarks"
+  output_stream: "face_landmarks_from_pose"
+  options: {
+    [mediapipe.SplitVectorCalculatorOptions.ext] {
+      ranges: { begin: 0 end: 11 }
+    }
+  }
+}
+
+node {
+  calculator: "FaceLandmarksFromPoseCpu"
+  input_stream: "IMAGE:image"
+  input_stream: "FACE_LANDMARKS_FROM_POSE:face_landmarks_from_pose"
+  input_side_packet: "REFINE_LANDMARKS:refine_face_landmarks"
+  output_stream: "FACE_LANDMARKS:face_landmarks"
+}
+
+node {
+  calculator: "FaceLandmarkLandmarksToRoi"
+  input_stream: "LANDMARKS:face_landmarks"
+  input_stream: "IMAGE_SIZE:image_size"
+  output_stream: "ROI:face_rect_from_landmarks"
+}
+
+node {
+  calculator: "HandLandmarksLeftAndRightCpu"
+  input_stream: "IMAGE:image"
+  input_stream: "POSE_LANDMARKS:pose_landmarks"
+  output_stream: "LEFT_HAND_LANDMARKS:left_hand_landmarks"
+  output_stream: "LEFT_HAND_ROI_FROM_RECROP:left_hand_roi"
+  output_stream: "RIGHT_HAND_LANDMARKS:right_hand_landmarks"
+  output_stream: "RIGHT_HAND_ROI_FROM_RECROP:right_hand_roi"
+}
