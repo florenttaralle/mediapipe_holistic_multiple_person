@@ -1,0 +1,4508 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "detections": [
+    {
+      "body": {
+        "rbbox": {
+          "cx": 0.5173537731170654,
+          "cy": 0.5412694215774536,
+          "w": 0.5046565532684326,
+          "h": 0.8971672058105469,
+          "r": 0.07683312892913818,
+          "normalised": true
+        },
+        "bbox": {
+          "x0": 0.2644241769310286,
+          "y0": 0.09234785214105729,
+          "w": 0.5058591923720736,
+          "h": 0.8978431388727925,
+          "normalised": true
+        },
+        "pose": [
+          {
+            "point": {
+              "x": 0.5276418924331665,
+              "y": 0.2548206150531769,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.532977283000946,
+              "y": 0.2456154227256775,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.536133348941803,
+              "y": 0.24634024500846863,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5383511185646057,
+              "y": 0.2469024956226349,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5234193801879883,
+              "y": 0.24419406056404114,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5204983949661255,
+              "y": 0.2441273033618927,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5173983573913574,
+              "y": 0.24400946497917175,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5420305728912354,
+              "y": 0.2563588619232178,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5136285424232483,
+              "y": 0.25216183066368103,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5335498452186584,
+              "y": 0.27130457758903503,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.521200954914093,
+              "y": 0.27008211612701416,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5623457431793213,
+              "y": 0.32904762029647827,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.48612886667251587,
+              "y": 0.326998233795166,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.6144663095474243,
+              "y": 0.3500496745109558,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.436858594417572,
+              "y": 0.3524708151817322,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.6669485569000244,
+              "y": 0.35148563981056213,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.38347411155700684,
+              "y": 0.3537406921386719,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.6826342344284058,
+              "y": 0.35054031014442444,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.3697722256183624,
+              "y": 0.3477722406387329,
+              "normalised": true
+            },
+            "visibility": 0.97
+          },
+          {
+            "point": {
+              "x": 0.6825090050697327,
+              "y": 0.34420183300971985,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.368463397026062,
+              "y": 0.34480199217796326,
+              "normalised": true
+            },
+            "visibility": 0.98
+          },
+          {
+            "point": {
+              "x": 0.6768162846565247,
+              "y": 0.34599560499191284,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.37335556745529175,
+              "y": 0.34941643476486206,
+              "normalised": true
+            },
+            "visibility": 0.98
+          },
+          {
+            "point": {
+              "x": 0.5479748845100403,
+              "y": 0.535537600517273,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5032671689987183,
+              "y": 0.5329468250274658,
+              "normalised": true
+            },
+            "visibility": 1.0
+          },
+          {
+            "point": {
+              "x": 0.5448403358459473,
+              "y": 0.6773178577423096,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.5031662583351135,
+              "y": 0.67251056432724,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.54400235414505,
+              "y": 0.8122026920318604,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.5002732872962952,
+              "y": 0.7917401790618896,
+              "normalised": true
+            },
+            "visibility": 0.98
+          },
+          {
+            "point": {
+              "x": 0.5416434407234192,
+              "y": 0.8264303207397461,
+              "normalised": true
+            },
+            "visibility": 0.93
+          },
+          {
+            "point": {
+              "x": 0.5028254389762878,
+              "y": 0.8030328750610352,
+              "normalised": true
+            },
+            "visibility": 0.92
+          },
+          {
+            "point": {
+              "x": 0.5426291227340698,
+              "y": 0.8532085418701172,
+              "normalised": true
+            },
+            "visibility": 0.99
+          },
+          {
+            "point": {
+              "x": 0.4967324137687683,
+              "y": 0.8327698111534119,
+              "normalised": true
+            },
+            "visibility": 0.98
+          }
+        ]
+      },
+      "face": {
+        "rbbox": {
+          "cx": 0.5262765884399414,
+          "cy": 0.257145494222641,
+          "w": 0.0585419163107872,
+          "h": 0.10407451540231705,
+          "r": 0.06536964327096939,
+          "normalised": true
+        },
+        "bbox": {
+          "x0": 0.4969462792340588,
+          "y0": 0.20507487470683286,
+          "w": 0.05866061841176512,
+          "h": 0.10414123903161623,
+          "normalised": true
+        },
+        "pose": [
+          {
+            "point": {
+              "x": 0.526435136795044,
+              "y": 0.2646183371543884,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5260531902313232,
+              "y": 0.25515106320381165,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5260393023490906,
+              "y": 0.2596246302127838,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.525148868560791,
+              "y": 0.24785280227661133,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5261124968528748,
+              "y": 0.25225570797920227,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5262026190757751,
+              "y": 0.24942101538181305,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5264124274253845,
+              "y": 0.2434466928243637,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5168523192405701,
+              "y": 0.24535682797431946,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5265729427337646,
+              "y": 0.2386176884174347,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5266708731651306,
+              "y": 0.23509502410888672,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5268938541412354,
+              "y": 0.2224539965391159,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5263814926147461,
+              "y": 0.2654588520526886,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.526307225227356,
+              "y": 0.2663058340549469,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5262430310249329,
+              "y": 0.2668085992336273,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.526240348815918,
+              "y": 0.2727239727973938,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5262407064437866,
+              "y": 0.27329662442207336,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5262138843536377,
+              "y": 0.27407461404800415,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5261523127555847,
+              "y": 0.27511361241340637,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5259137749671936,
+              "y": 0.27675366401672363,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5260350108146667,
+              "y": 0.2572341859340668,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5248148441314697,
+              "y": 0.25783249735832214,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5114389061927795,
+              "y": 0.23867107927799225,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5205667614936829,
+              "y": 0.2468279004096985,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5192037224769592,
+              "y": 0.24704937636852264,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5178737640380859,
+              "y": 0.24705712497234344,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5160926580429077,
+              "y": 0.24644385278224945,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5217614769935608,
+              "y": 0.2463013082742691,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5188736319541931,
+              "y": 0.24047428369522095,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5203193426132202,
+              "y": 0.24073025584220886,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5174495577812195,
+              "y": 0.24086837470531464,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5164531469345093,
+              "y": 0.24190379679203033,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5147969722747803,
+              "y": 0.24801382422447205,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.520033597946167,
+              "y": 0.28340944647789,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5163660645484924,
+              "y": 0.24513497948646545,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5103843212127686,
+              "y": 0.2503485679626465,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5132753252983093,
+              "y": 0.24697643518447876,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5188477635383606,
+              "y": 0.25617289543151855,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5241195559501648,
+              "y": 0.26412782073020935,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5241863131523132,
+              "y": 0.2661876678466797,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5216919779777527,
+              "y": 0.2651575207710266,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5200356841087341,
+              "y": 0.26643985509872437,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.522310197353363,
+              "y": 0.26655474305152893,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5207853317260742,
+              "y": 0.26724010705947876,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5188730359077454,
+              "y": 0.2722509801387787,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.524914026260376,
+              "y": 0.2551908493041992,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5248416066169739,
+              "y": 0.25241097807884216,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.514467179775238,
+              "y": 0.2398482859134674,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.522053062915802,
+              "y": 0.25021082162857056,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5215188264846802,
+              "y": 0.2558349072933197,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5214778780937195,
+              "y": 0.25475478172302246,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5142647624015808,
+              "y": 0.25651815533638,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5249879956245422,
+              "y": 0.24979670345783234,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5180131793022156,
+              "y": 0.23674821853637695,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5159610509872437,
+              "y": 0.2377159297466278,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.513168215751648,
+              "y": 0.23257818818092346,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5239707231521606,
+              "y": 0.23894314467906952,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5215967893600464,
+              "y": 0.2416408210992813,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5176233649253845,
+              "y": 0.2694788873195648,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5104476809501648,
+              "y": 0.27890250086784363,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5225487947463989,
+              "y": 0.2575617730617523,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5237833857536316,
+              "y": 0.2584972679615021,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5182679891586304,
+              "y": 0.269250750541687,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5187857151031494,
+              "y": 0.26921820640563965,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5152305364608765,
+              "y": 0.23623812198638916,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5213661193847656,
+              "y": 0.2573079764842987,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5206540822982788,
+              "y": 0.2370181679725647,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5204458236694336,
+              "y": 0.23485514521598816,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5191038250923157,
+              "y": 0.22414545714855194,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5143969655036926,
+              "y": 0.23414701223373413,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5200597643852234,
+              "y": 0.2285424768924713,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5136247277259827,
+              "y": 0.23908887803554535,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5126298069953918,
+              "y": 0.23908783495426178,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5241097211837769,
+              "y": 0.26524829864501953,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5219952464103699,
+              "y": 0.2659059762954712,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5204136371612549,
+              "y": 0.2668507695198059,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5228750109672546,
+              "y": 0.25815707445144653,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5185279846191406,
+              "y": 0.2692400813102722,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5191885828971863,
+              "y": 0.2705356180667877,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5190166234970093,
+              "y": 0.26919424533843994,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5233626961708069,
+              "y": 0.25616025924682617,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5210752487182617,
+              "y": 0.26742124557495117,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5225628018379211,
+              "y": 0.2668876051902771,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5243081450462341,
+              "y": 0.26669391989707947,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5238736867904663,
+              "y": 0.2765921652317047,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.523643434047699,
+              "y": 0.27464181184768677,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.523781418800354,
+              "y": 0.2736368477344513,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5239235162734985,
+              "y": 0.272868812084198,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5240926146507263,
+              "y": 0.2723289430141449,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.520879328250885,
+              "y": 0.2710103988647461,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5205784440040588,
+              "y": 0.27121636271476746,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5201744437217712,
+              "y": 0.2716066837310791,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5198470950126648,
+              "y": 0.27215030789375305,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5193701386451721,
+              "y": 0.2644692659378052,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5092689394950867,
+              "y": 0.26562872529029846,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5260269045829773,
+              "y": 0.25845786929130554,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5198872089385986,
+              "y": 0.27033451199531555,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5195583701133728,
+              "y": 0.2703949809074402,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5241867899894714,
+              "y": 0.2595803141593933,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5217700004577637,
+              "y": 0.2591201961040497,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5240036845207214,
+              "y": 0.2590608298778534,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5204297304153442,
+              "y": 0.2517792880535126,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5179895162582397,
+              "y": 0.25323763489723206,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5211583375930786,
+              "y": 0.2562190890312195,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5156331658363342,
+              "y": 0.2276080995798111,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5168046951293945,
+              "y": 0.23055176436901093,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5175655484199524,
+              "y": 0.23475800454616547,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5201706290245056,
+              "y": 0.2740568518638611,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5235889554023743,
+              "y": 0.23554125428199768,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5232361555099487,
+              "y": 0.22798249125480652,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5226896405220032,
+              "y": 0.2225949466228485,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.516749382019043,
+              "y": 0.24692630767822266,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5132347941398621,
+              "y": 0.24992118775844574,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5225473642349243,
+              "y": 0.24569964408874512,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5149028897285461,
+              "y": 0.24331225454807281,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5231752395629883,
+              "y": 0.24833664298057556,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5225164294242859,
+              "y": 0.2544213831424713,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.511279284954071,
+              "y": 0.25304463505744934,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.51412034034729,
+              "y": 0.2509501576423645,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5158695578575134,
+              "y": 0.251282662153244,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5185799598693848,
+              "y": 0.2508123219013214,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5206473469734192,
+              "y": 0.24985820055007935,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5222243666648865,
+              "y": 0.24866557121276855,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5251175165176392,
+              "y": 0.2442353218793869,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.510973334312439,
+              "y": 0.25808221101760864,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5137786865234375,
+              "y": 0.24327746033668518,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.525377094745636,
+              "y": 0.25715371966362,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5220241546630859,
+              "y": 0.2521198093891144,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5096903443336487,
+              "y": 0.25258249044418335,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5233950018882751,
+              "y": 0.24721430242061615,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5209805369377136,
+              "y": 0.2568754553794861,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5156383514404297,
+              "y": 0.24526865780353546,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.522508442401886,
+              "y": 0.2531338632106781,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5095753073692322,
+              "y": 0.2723422646522522,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5225481986999512,
+              "y": 0.245013028383255,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5237941145896912,
+              "y": 0.251168817281723,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5135151147842407,
+              "y": 0.2803877890110016,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5135794878005981,
+              "y": 0.2860002815723419,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5096016526222229,
+              "y": 0.2618621289730072,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5116229057312012,
+              "y": 0.27775824069976807,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5114772915840149,
+              "y": 0.24442337453365326,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5196683406829834,
+              "y": 0.2872443199157715,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5255025029182434,
+              "y": 0.2583572268486023,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5206615328788757,
+              "y": 0.2541882395744324,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.512046754360199,
+              "y": 0.24800702929496765,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5181440114974976,
+              "y": 0.24547448754310608,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5192687511444092,
+              "y": 0.2454890012741089,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5188432335853577,
+              "y": 0.27076977491378784,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5107652544975281,
+              "y": 0.26393264532089233,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5224178433418274,
+              "y": 0.29143279790878296,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.517861545085907,
+              "y": 0.289777010679245,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5158805251121521,
+              "y": 0.28836947679519653,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5268166065216064,
+              "y": 0.2282702624797821,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5255151391029358,
+              "y": 0.29180583357810974,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5203728079795837,
+              "y": 0.24540045857429504,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5214471220970154,
+              "y": 0.24522137641906738,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5221617221832275,
+              "y": 0.24513064324855804,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5127426385879517,
+              "y": 0.24327966570854187,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.521298348903656,
+              "y": 0.24398638308048248,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5201588273048401,
+              "y": 0.2436113804578781,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5191404223442078,
+              "y": 0.24350246787071228,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.518062949180603,
+              "y": 0.24380433559417725,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5172734260559082,
+              "y": 0.2443152666091919,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5103766322135925,
+              "y": 0.2449859380722046,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5173914432525635,
+              "y": 0.2454199492931366,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5261039733886719,
+              "y": 0.2614685297012329,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5209852457046509,
+              "y": 0.26270928978919983,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5225585103034973,
+              "y": 0.25694698095321655,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5240014791488647,
+              "y": 0.2614911198616028,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5264883041381836,
+              "y": 0.241367369890213,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5156096816062927,
+              "y": 0.2833203077316284,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5175674557685852,
+              "y": 0.2853989005088806,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5223559141159058,
+              "y": 0.2883376479148865,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.511858344078064,
+              "y": 0.2833192050457001,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5221436023712158,
+              "y": 0.24454717338085175,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5241209864616394,
+              "y": 0.24784573912620544,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5255559682846069,
+              "y": 0.2886885404586792,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5199787020683289,
+              "y": 0.29072442650794983,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5097127556800842,
+              "y": 0.26812201738357544,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5223110318183899,
+              "y": 0.27169933915138245,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5219975709915161,
+              "y": 0.27209001779556274,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5217103362083435,
+              "y": 0.272718220949173,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5215062499046326,
+              "y": 0.27359387278556824,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5218079090118408,
+              "y": 0.2755502760410309,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5195434093475342,
+              "y": 0.268154114484787,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5191861391067505,
+              "y": 0.267995685338974,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5188586711883545,
+              "y": 0.2677828073501587,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5181160569190979,
+              "y": 0.26663559675216675,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5125941634178162,
+              "y": 0.26350000500679016,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5242007970809937,
+              "y": 0.24610048532485962,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.523689329624176,
+              "y": 0.2429066002368927,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5227858424186707,
+              "y": 0.2434055656194687,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5198671817779541,
+              "y": 0.2681643068790436,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5122330188751221,
+              "y": 0.27156588435173035,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5249588489532471,
+              "y": 0.24242925643920898,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5208597183227539,
+              "y": 0.27954456210136414,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5262774229049683,
+              "y": 0.24738994240760803,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5251301527023315,
+              "y": 0.24611122906208038,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5263481140136719,
+              "y": 0.24547478556632996,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5229546427726746,
+              "y": 0.2516765892505646,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5256580114364624,
+              "y": 0.2848634719848633,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5257839560508728,
+              "y": 0.2805981934070587,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5232359170913696,
+              "y": 0.28050968050956726,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5175909399986267,
+              "y": 0.27471619844436646,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5197668075561523,
+              "y": 0.25927987694740295,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5190848112106323,
+              "y": 0.2776852548122406,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5161811113357544,
+              "y": 0.2593321204185486,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.518175482749939,
+              "y": 0.2619889974594116,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5146062970161438,
+              "y": 0.26431959867477417,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5226226449012756,
+              "y": 0.2846479117870331,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5219618082046509,
+              "y": 0.25352415442466736,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5162336230278015,
+              "y": 0.2783939242362976,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.518135666847229,
+              "y": 0.28118085861206055,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5163124799728394,
+              "y": 0.27106595039367676,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5109294652938843,
+              "y": 0.2691347301006317,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5142764449119568,
+              "y": 0.2732332944869995,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5102806687355042,
+              "y": 0.2736334502696991,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5167289972305298,
+              "y": 0.26546940207481384,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5231232643127441,
+              "y": 0.24999627470970154,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5229182243347168,
+              "y": 0.2555356025695801,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.521930992603302,
+              "y": 0.256660133600235,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.523652195930481,
+              "y": 0.2532830834388733,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5226684212684631,
+              "y": 0.2408233880996704,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5204848647117615,
+              "y": 0.23921722173690796,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5185413360595703,
+              "y": 0.2388334423303604,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5168350338935852,
+              "y": 0.23941485583782196,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.515571653842926,
+              "y": 0.2408929318189621,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.514611005783081,
+              "y": 0.24601507186889648,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5097983479499817,
+              "y": 0.25603193044662476,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5155285000801086,
+              "y": 0.24869069457054138,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5169488787651062,
+              "y": 0.24898308515548706,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.51882404088974,
+              "y": 0.24886004626750946,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5206313729286194,
+              "y": 0.2483164221048355,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.522068977355957,
+              "y": 0.24752719700336456,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.523050844669342,
+              "y": 0.24665063619613647,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5094211101531982,
+              "y": 0.25929179787635803,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5219227075576782,
+              "y": 0.25759997963905334,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5240416526794434,
+              "y": 0.2494487315416336,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5239741206169128,
+              "y": 0.2552032768726349,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5247496962547302,
+              "y": 0.25705403089523315,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5239786505699158,
+              "y": 0.2560986578464508,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5222548246383667,
+              "y": 0.2585771977901459,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5249762535095215,
+              "y": 0.257092148065567,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5250962972640991,
+              "y": 0.2582107484340668,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5230804085731506,
+              "y": 0.24491065740585327,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5238135457038879,
+              "y": 0.2452290654182434,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5242607593536377,
+              "y": 0.24527764320373535,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5167698860168457,
+              "y": 0.2447594553232193,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5157235860824585,
+              "y": 0.24338871240615845,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5274035930633545,
+              "y": 0.2480326145887375,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.536513090133667,
+              "y": 0.24745748937129974,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5273167490959167,
+              "y": 0.257999449968338,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5419964790344238,
+              "y": 0.24140051007270813,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5324568748474121,
+              "y": 0.24779491126537323,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5338158011436462,
+              "y": 0.2482706606388092,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5351830720901489,
+              "y": 0.24864278733730316,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5372384786605835,
+              "y": 0.2486766129732132,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5313449501991272,
+              "y": 0.24710527062416077,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5346238613128662,
+              "y": 0.2421281784772873,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5331364870071411,
+              "y": 0.24207571148872375,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5360666513442993,
+              "y": 0.24282488226890564,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5370351076126099,
+              "y": 0.24408377707004547,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5384100675582886,
+              "y": 0.25036123394966125,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5313902497291565,
+              "y": 0.2842690646648407,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5370596647262573,
+              "y": 0.24754327535629272,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5427226424217224,
+              "y": 0.2532833218574524,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5401792526245117,
+              "y": 0.24960458278656006,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5336097478866577,
+              "y": 0.25732025504112244,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5287217497825623,
+              "y": 0.2644957900047302,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5283617377281189,
+              "y": 0.266531765460968,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5309001207351685,
+              "y": 0.2658331096172333,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5322074890136719,
+              "y": 0.2673927843570709,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5300291180610657,
+              "y": 0.2671876549720764,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5312765836715698,
+              "y": 0.2681191563606262,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5335130095481873,
+              "y": 0.27315035462379456,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5272162556648254,
+              "y": 0.255363792181015,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5274129509925842,
+              "y": 0.252602219581604,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.53928542137146,
+              "y": 0.24232621490955353,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5305370092391968,
+              "y": 0.2508799135684967,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5308278203010559,
+              "y": 0.25652095675468445,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5309218168258667,
+              "y": 0.2554309666156769,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5382680296897888,
+              "y": 0.25848278403282166,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5274074077606201,
+              "y": 0.24997134506702423,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5357347726821899,
+              "y": 0.23835471272468567,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5378232002258301,
+              "y": 0.23984132707118988,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5405234694480896,
+              "y": 0.23499929904937744,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5293524861335754,
+              "y": 0.23946775496006012,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5318191051483154,
+              "y": 0.24273347854614258,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5349268317222595,
+              "y": 0.2706200182437897,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5414078235626221,
+              "y": 0.28173571825027466,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5297043919563293,
+              "y": 0.2580850422382355,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5284110903739929,
+              "y": 0.2588232755661011,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5333012342453003,
+              "y": 0.2706422507762909,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5328541398048401,
+              "y": 0.27050137519836426,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.538765013217926,
+              "y": 0.23852914571762085,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5309514403343201,
+              "y": 0.2579777240753174,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5329296588897705,
+              "y": 0.23811489343643188,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.533293604850769,
+              "y": 0.2360038459300995,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.534758985042572,
+              "y": 0.2254941612482071,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5392277240753174,
+              "y": 0.23653283715248108,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5336288809776306,
+              "y": 0.22986403107643127,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5402771830558777,
+              "y": 0.2417689561843872,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5408132672309875,
+              "y": 0.24176016449928284,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5285950303077698,
+              "y": 0.2656097114086151,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5304698944091797,
+              "y": 0.2665817439556122,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5317608714103699,
+              "y": 0.26777327060699463,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5293546915054321,
+              "y": 0.25861120223999023,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5330791473388672,
+              "y": 0.27057430148124695,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5325355529785156,
+              "y": 0.271716445684433,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5326389670372009,
+              "y": 0.2704201638698578,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5288546085357666,
+              "y": 0.25657182931900024,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.530905544757843,
+              "y": 0.2682535648345947,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5296732187271118,
+              "y": 0.2674907147884369,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5281082391738892,
+              "y": 0.26701298356056213,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5280150175094604,
+              "y": 0.27687886357307434,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5285813808441162,
+              "y": 0.2750178873538971,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5285481810569763,
+              "y": 0.2740192711353302,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5284717679023743,
+              "y": 0.27326980233192444,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5283070802688599,
+              "y": 0.2727135121822357,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5310856103897095,
+              "y": 0.2719555199146271,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5313884019851685,
+              "y": 0.27219706773757935,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5317267775535583,
+              "y": 0.27259355783462524,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5319877862930298,
+              "y": 0.27314022183418274,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5331084728240967,
+              "y": 0.26543018221855164,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5430936813354492,
+              "y": 0.2686924338340759,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5318686962127686,
+              "y": 0.27142131328582764,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5322007536888123,
+              "y": 0.2715369164943695,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5279690623283386,
+              "y": 0.2598673701286316,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.530517041683197,
+              "y": 0.2597310543060303,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5281645655632019,
+              "y": 0.2593676745891571,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.532109260559082,
+              "y": 0.2526991069316864,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5345644950866699,
+              "y": 0.25457221269607544,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5312241315841675,
+              "y": 0.25691863894462585,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5382288098335266,
+              "y": 0.22960014641284943,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.536932110786438,
+              "y": 0.23255297541618347,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5363669991493225,
+              "y": 0.23645709455013275,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5320295095443726,
+              "y": 0.2748005986213684,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5299672484397888,
+              "y": 0.23613207042217255,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5304121375083923,
+              "y": 0.2286391407251358,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5311314463615417,
+              "y": 0.22329100966453552,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5364421010017395,
+              "y": 0.24887952208518982,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5399587750434875,
+              "y": 0.2524509131908417,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5306441187858582,
+              "y": 0.2464367002248764,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5386286973953247,
+              "y": 0.24573838710784912,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5294994115829468,
+              "y": 0.24885228276252747,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5297959446907043,
+              "y": 0.25498244166374207,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5414757132530212,
+              "y": 0.25568079948425293,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5387967824935913,
+              "y": 0.2532837688922882,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5368351340293884,
+              "y": 0.253204345703125,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5340395569801331,
+              "y": 0.2521817684173584,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5320267081260681,
+              "y": 0.25083011388778687,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.530525267124176,
+              "y": 0.24936260282993317,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5276888608932495,
+              "y": 0.2444406896829605,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5415623784065247,
+              "y": 0.2607173025608063,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5398300886154175,
+              "y": 0.24588237702846527,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5267232656478882,
+              "y": 0.257243275642395,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5304785370826721,
+              "y": 0.2527658939361572,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5432842969894409,
+              "y": 0.2555590867996216,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5294523239135742,
+              "y": 0.2477264404296875,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5313819050788879,
+              "y": 0.25760382413864136,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5378270149230957,
+              "y": 0.24765703082084656,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5298752784729004,
+              "y": 0.25368037819862366,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5425445437431335,
+              "y": 0.2753571569919586,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5307823419570923,
+              "y": 0.24588243663311005,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5286047458648682,
+              "y": 0.25152236223220825,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5382281541824341,
+              "y": 0.28250718116760254,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.537790834903717,
+              "y": 0.28809207677841187,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5429016947746277,
+              "y": 0.2648462653160095,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5402740836143494,
+              "y": 0.28030693531036377,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5418103337287903,
+              "y": 0.24718819558620453,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5315015316009521,
+              "y": 0.28815850615501404,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.526561439037323,
+              "y": 0.2584228217601776,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5317882299423218,
+              "y": 0.2550276219844818,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5415541529655457,
+              "y": 0.2508082687854767,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.535053014755249,
+              "y": 0.2469968944787979,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5338685512542725,
+              "y": 0.2466876059770584,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5328227877616882,
+              "y": 0.2719898819923401,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.541591465473175,
+              "y": 0.26661479473114014,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5285704731941223,
+              "y": 0.29183700680732727,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5331732630729675,
+              "y": 0.2909044921398163,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5352904200553894,
+              "y": 0.2899070978164673,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5327794551849365,
+              "y": 0.24640116095542908,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5317787528038025,
+              "y": 0.24610142409801483,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5311326384544373,
+              "y": 0.24598152935504913,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5409864783287048,
+              "y": 0.2460191398859024,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5319066643714905,
+              "y": 0.24568304419517517,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.532959520816803,
+              "y": 0.24590836465358734,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5339560508728027,
+              "y": 0.2461743801832199,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5350939035415649,
+              "y": 0.24658983945846558,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5359569787979126,
+              "y": 0.24701140820980072,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.542844831943512,
+              "y": 0.24783624708652496,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5358877778053284,
+              "y": 0.24725070595741272,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.531419575214386,
+              "y": 0.26342758536338806,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5296913981437683,
+              "y": 0.25749045610427856,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5283058285713196,
+              "y": 0.2618142068386078,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5358985662460327,
+              "y": 0.28499168157577515,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5337567925453186,
+              "y": 0.28670310974121094,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5287630558013916,
+              "y": 0.2888268530368805,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5397282242774963,
+              "y": 0.285806804895401,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5311570763587952,
+              "y": 0.2457149624824524,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5285090804100037,
+              "y": 0.24819275736808777,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5310047268867493,
+              "y": 0.2914630174636841,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5425611138343811,
+              "y": 0.2710990905761719,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5299113392829895,
+              "y": 0.2723982334136963,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5302115082740784,
+              "y": 0.27281618118286133,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5304314494132996,
+              "y": 0.2734155058860779,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5305793881416321,
+              "y": 0.2742873430252075,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5302103161811829,
+              "y": 0.2760711908340454,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5322852730751038,
+              "y": 0.2692522406578064,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5326683521270752,
+              "y": 0.2691594660282135,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5330320000648499,
+              "y": 0.26898491382598877,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.534451961517334,
+              "y": 0.2677428722381592,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5397860407829285,
+              "y": 0.2658042907714844,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5285385251045227,
+              "y": 0.2464713305234909,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5296071171760559,
+              "y": 0.24348630011081696,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.530546247959137,
+              "y": 0.24420365691184998,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5319430828094482,
+              "y": 0.2692008912563324,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5399179458618164,
+              "y": 0.2739408612251282,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.528180718421936,
+              "y": 0.2428017109632492,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5308660864830017,
+              "y": 0.28026875853538513,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5275465250015259,
+              "y": 0.2462978959083557,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5295175313949585,
+              "y": 0.2521926462650299,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5283817052841187,
+              "y": 0.2808890640735626,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5345062613487244,
+              "y": 0.2759007513523102,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5325863361358643,
+              "y": 0.2601913511753082,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5327898263931274,
+              "y": 0.2786368429660797,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5362727046012878,
+              "y": 0.2609579265117645,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.53424471616745,
+              "y": 0.2632025480270386,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.537783145904541,
+              "y": 0.2662113904953003,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5287165641784668,
+              "y": 0.2851080894470215,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5304790735244751,
+              "y": 0.2541410028934479,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5355788469314575,
+              "y": 0.2798657715320587,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5334621071815491,
+              "y": 0.28233596682548523,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.535992443561554,
+              "y": 0.2725076675415039,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5412976145744324,
+              "y": 0.2718029022216797,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5378292798995972,
+              "y": 0.27513211965560913,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.541803777217865,
+              "y": 0.2764938771724701,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5357637405395508,
+              "y": 0.26688316464424133,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.529436469078064,
+              "y": 0.2504924237728119,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5293219685554504,
+              "y": 0.25603851675987244,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5303621292114258,
+              "y": 0.2572934031486511,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5286145806312561,
+              "y": 0.2536582946777344,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5307207703590393,
+              "y": 0.2416345775127411,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5330185890197754,
+              "y": 0.24041585624217987,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5350485444068909,
+              "y": 0.2404354214668274,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5367767214775085,
+              "y": 0.24140062928199768,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5380257964134216,
+              "y": 0.2431669980287552,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.538825273513794,
+              "y": 0.24849888682365417,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5429840087890625,
+              "y": 0.25901731848716736,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5375250577926636,
+              "y": 0.2508639991283417,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5359453558921814,
+              "y": 0.25074225664138794,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5340156555175781,
+              "y": 0.25019657611846924,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5322292447090149,
+              "y": 0.24930167198181152,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5308687686920166,
+              "y": 0.2482648342847824,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5299627184867859,
+              "y": 0.24723121523857117,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5432367324829102,
+              "y": 0.26229357719421387,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5303559303283691,
+              "y": 0.25819846987724304,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5284648537635803,
+              "y": 0.24979229271411896,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5282084345817566,
+              "y": 0.25552642345428467,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.527397632598877,
+              "y": 0.25725629925727844,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5282134413719177,
+              "y": 0.25643518567085266,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5300097465515137,
+              "y": 0.2591150403022766,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5271519422531128,
+              "y": 0.2572489082813263,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5269946455955505,
+              "y": 0.2583308219909668,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5301860570907593,
+              "y": 0.2455817461013794,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5293046236038208,
+              "y": 0.24571356177330017,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5287118554115295,
+              "y": 0.2456798255443573,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5365558862686157,
+              "y": 0.24731986224651337,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5377578735351562,
+              "y": 0.24572531878948212,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5191134810447693,
+              "y": 0.24464493989944458,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5204702615737915,
+              "y": 0.24460957944393158,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5190880298614502,
+              "y": 0.2426653355360031,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.517754077911377,
+              "y": 0.24466148018836975,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5191413760185242,
+              "y": 0.24657240509986877,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5337533354759216,
+              "y": 0.24615918099880219,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.535155177116394,
+              "y": 0.24643108248710632,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5338882803916931,
+              "y": 0.24421530961990356,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5323652029037476,
+              "y": 0.24588462710380554,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.5336359143257141,
+              "y": 0.24806231260299683,
+              "normalised": true
+            },
+            "visibility": 0.0
+          }
+        ]
+      },
+      "left_hand": {
+        "rbbox": {
+          "cx": 0.6857813596725464,
+          "cy": 0.346236914396286,
+          "w": 0.055434249341487885,
+          "h": 0.09854977577924728,
+          "r": 1.565703272819519,
+          "normalised": true
+        },
+        "bbox": {
+          "x0": 0.6567282318238891,
+          "y0": 0.2962231006498953,
+          "w": 0.058106255697314535,
+          "h": 0.10002762749278138,
+          "normalised": true
+        },
+        "pose": [
+          {
+            "point": {
+              "x": 0.6646671295166016,
+              "y": 0.35270142555236816,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6698166728019714,
+              "y": 0.3604637086391449,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6762776970863342,
+              "y": 0.36385199427604675,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6818355917930603,
+              "y": 0.3659600615501404,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.686086893081665,
+              "y": 0.36834287643432617,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6822212338447571,
+              "y": 0.35516390204429626,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6887584328651428,
+              "y": 0.35757988691329956,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6921083927154541,
+              "y": 0.35964566469192505,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6950024962425232,
+              "y": 0.3609400689601898,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6824156641960144,
+              "y": 0.3484734892845154,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6897345185279846,
+              "y": 0.3497118055820465,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6941140294075012,
+              "y": 0.3516099452972412,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6978252530097961,
+              "y": 0.35253387689590454,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6809603571891785,
+              "y": 0.3418632745742798,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6872362494468689,
+              "y": 0.3365713953971863,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6908512711524963,
+              "y": 0.3339690864086151,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.693993091583252,
+              "y": 0.33198997378349304,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6781858205795288,
+              "y": 0.33650293946266174,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6825328469276428,
+              "y": 0.3306429386138916,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6852282285690308,
+              "y": 0.32691892981529236,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.6878004670143127,
+              "y": 0.3240605592727661,
+              "normalised": true
+            },
+            "visibility": 0.0
+          }
+        ]
+      },
+      "right_hand": {
+        "rbbox": {
+          "cx": 0.36428359150886536,
+          "cy": 0.3376787304878235,
+          "w": 0.05394800007343292,
+          "h": 0.0959075540304184,
+          "r": -1.0688236951828003,
+          "normalised": true
+        },
+        "bbox": {
+          "x0": 0.3364197831814952,
+          "y0": 0.28923013984962287,
+          "w": 0.05572761665474035,
+          "h": 0.09689718127640123,
+          "normalised": true
+        },
+        "pose": [
+          {
+            "point": {
+              "x": 0.38177573680877686,
+              "y": 0.352448433637619,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.37453320622444153,
+              "y": 0.3425964415073395,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36651816964149475,
+              "y": 0.33693021535873413,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3599497675895691,
+              "y": 0.3347662687301636,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.35527563095092773,
+              "y": 0.33717527985572815,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3635784089565277,
+              "y": 0.3385518491268158,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3575423061847687,
+              "y": 0.33895835280418396,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.35883828997612,
+              "y": 0.3415054976940155,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36140650510787964,
+              "y": 0.3427663743495941,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3644508421421051,
+              "y": 0.346037894487381,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.35929685831069946,
+              "y": 0.3483399748802185,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36094677448272705,
+              "y": 0.35007476806640625,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3633292019367218,
+              "y": 0.3504776954650879,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3661540150642395,
+              "y": 0.3530135154724121,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36177507042884827,
+              "y": 0.3552016317844391,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36338505148887634,
+              "y": 0.35598909854888916,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3655717074871063,
+              "y": 0.3556210398674011,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36859163641929626,
+              "y": 0.3591286242008209,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36596038937568665,
+              "y": 0.3615870475769043,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.36724787950515747,
+              "y": 0.361845999956131,
+              "normalised": true
+            },
+            "visibility": 0.0
+          },
+          {
+            "point": {
+              "x": 0.3688574731349945,
+              "y": 0.3609504997730255,
+              "normalised": true
+            },
+            "visibility": 0.0
+          }
+        ]
+      }
+    }
+  ]
+}
