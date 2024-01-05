@@ -38,6 +38,12 @@ class BodyPose(Pose):
         links = mp.solutions.pose.POSE_CONNECTIONS
         Pose.draw_links(self, frame, links, color, thickness)
 
+class HeadPose(Pose):
+    def draw_links(self, frame, color, thickness=None):
+        links = np.array(list(mp.solutions.pose.POSE_CONNECTIONS))
+        links = links[np.all(links < 11, 1)]
+        Pose.draw_links(self, frame, links, color, thickness)
+
 class FacePose(Pose):
     def draw_links(self, frame, color, thickness=None):
         links = mp.solutions.face_mesh.FACEMESH_TESSELATION

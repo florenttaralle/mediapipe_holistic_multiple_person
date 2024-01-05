@@ -1,15 +1,15 @@
 from .bbox_base import BboxBase
 
 class Bbox_x0y0wh(BboxBase):
-    def __init__(self, x0, y0, w, h, normalised: bool=False):
+    def __init__(self, x0, y0, w, h, normalised):
         # nothing to do here, only for code completion
         pass 
 
     def __repr__(self) -> str:
-        return f"<{self.__class__.__name__} x0:{self.x0} y0:{self.y0} w:{self.w} h:{self.h}>"
+        return f"<{self.__class__.__name__} x0:{self.x0} y0:{self.y0} w:{self.w} h:{self.h} n:{self.normalised}>"
 
     @classmethod
-    def from_bbox(cls, other: BboxBase): return cls(other.x0, other.y0, other.w, other.h)
+    def from_bbox(cls, other: BboxBase): return cls(other.x0, other.y0, other.w, other.h, other.normalised)
 
     @property
     def x0(self): return self[0]

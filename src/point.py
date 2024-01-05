@@ -3,7 +3,7 @@ import numpy as np, cv2
 class Point(np.ndarray):
     normalised: bool
 
-    def __new__(cls, x, y, normalised: bool=False):
+    def __new__(cls, x, y, normalised: bool):
         obj = np.array((x, y)).view(cls)
         obj.normalised = normalised
         return obj
@@ -13,7 +13,7 @@ class Point(np.ndarray):
         pass 
 
     def __repr__(self) -> str:
-        return f"({self.x}, {self.y})"
+        return f"<Point x:{self.x} y:{self.y} n:{self.normalised}>"
 
     @property
     def x(self): return self[0]
@@ -32,16 +32,12 @@ class Point(np.ndarray):
         cv2.circle(frame, point, radius, color, thickness or -1)
 
     def normalise(self, w, h):
-        if self.normalised:
-            return Point(self.x, self.y, True)
-        else:
-            return Point(self.x/w, self.y/h, True)
+        assert not self.normalised
+        return Point(*list(self / [w, h]), True)
 
     def denormalise(self, w, h):
-        if self.normalised:
-            return Point(self.x*w, self.y*h, False)
-        else:
-            return Point(self.x, self.y, False)
+        assert self.normalised
+        return Point(*list(self * [w, h]), False)
         
     def serialize(self):
         return {"x": self.x, "y": self.y, "normalised": self.normalised}

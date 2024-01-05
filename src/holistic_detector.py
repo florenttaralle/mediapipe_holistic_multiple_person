@@ -5,7 +5,7 @@ from mediapipe.python.solutions import download_utils
 # ########################################################
 from .holistic_detection import HolisticDetection, HolisticPart
 from .rbbox import RBbox
-from .pose import BodyPose, FacePose, HandPose
+from .pose import BodyPose, HeadPose, FacePose, HandPose
 # ########################################################
 
 
@@ -47,8 +47,9 @@ class HolisticDetector:
     def to_rbbox(mp_rbbox) -> Optional[RBbox]:
         if mp_rbbox is not None:
             return RBbox(
-                mp_rbbox.x_center, mp_rbbox.y_center, mp_rbbox.width, 
-                mp_rbbox.height, mp_rbbox.rotation, True)
+                mp_rbbox.x_center, mp_rbbox.y_center, 
+                mp_rbbox.width, mp_rbbox.height, 
+                mp_rbbox.rotation, True)
         else:
             return None
     # ########################################################
@@ -79,18 +80,24 @@ class HolisticDetector:
             'pose_detection': pose_detection
         })
         # load bboxes
-        body_rbbox  = self.to_rbbox(secondary_result.pose_rect_from_detection)
+        body_rbbox  = self.to_rbbox(
+            secondary_result.pose_rect_from_landmarks or
+            secondary_result.pose_rect_from_detection
+        )
+        head_rbbox  = self.to_rbbox(secondary_result.face_roi_from_pose)
         face_rbbox  = self.to_rbbox(secondary_result.face_rect_from_landmarks)
         lhand_rbbox = self.to_rbbox(secondary_result.left_hand_roi)
         rhand_rbbox = self.to_rbbox(secondary_result.right_hand_roi)
         # load poses (or None)
         body_pose   = BodyPose.from_mp(secondary_result.pose_landmarks)
+        head_pose   = HeadPose(body_pose.landmarks[:11]) if body_pose is not None else None
         face_pose   = FacePose.from_mp(secondary_result.face_landmarks)
         lhand_pose  = HandPose.from_mp(secondary_result.left_hand_landmarks)
         rhand_pose  = HandPose.from_mp(secondary_result.right_hand_landmarks)
 
         return HolisticDetection(
             HolisticPart(body_rbbox, body_pose),
+            HolisticPart(head_rbbox, head_pose),
             HolisticPart(face_rbbox, face_pose),
             HolisticPart(lhand_rbbox, lhand_pose),
             HolisticPart(rhand_rbbox, rhand_pose)

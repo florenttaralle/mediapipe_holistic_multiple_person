@@ -1,27 +1,29 @@
 import attrs
 from typing import List
 # ########################################################
-from .pose import BodyPose, FacePose, HandPose
+from .pose import BodyPose, HeadPose, FacePose, HandPose
 from .holistic_part import HolisticPart
 # ########################################################
 
 
 @attrs.define
 class HolisticDetection:
-    body:       HolisticPart
-    face:       HolisticPart
-    left_hand:  HolisticPart
-    right_hand: HolisticPart
+    body:               HolisticPart
+    head:               HolisticPart
+    face:               HolisticPart
+    left_hand:          HolisticPart
+    right_hand:         HolisticPart
     # ########################################################
 
     @property
     def parts(self) -> List[HolisticPart]:
-        return [self.body, self.face, self.left_hand, self.right_hand]
+        return [self.body, self.head, self.face, self.left_hand, self.right_hand]
     # ########################################################
 
     def serialize(self):
         return {
             "body": self.body.serialize(),
+            "head": self.head.serialize(),
             "face": self.face.serialize(),
             "left_hand": self.left_hand.serialize(),
             "right_hand": self.right_hand.serialize(),
@@ -32,6 +34,7 @@ class HolisticDetection:
     def deserialize(cls, obj):
         return cls(
             HolisticPart.deserialize(obj["body"], BodyPose),
+            HolisticPart.deserialize(obj["head"], HeadPose),
             HolisticPart.deserialize(obj["face"], FacePose),
             HolisticPart.deserialize(obj["left_hand"], HandPose),
             HolisticPart.deserialize(obj["right_hand"], HandPose),

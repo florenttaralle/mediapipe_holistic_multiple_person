@@ -1,15 +1,15 @@
 from .bbox_base import BboxBase
 
 class Bbox_cxcywh(BboxBase):
-    def __init__(self, cx, cy, w, h, normalised: bool=False):
+    def __init__(self, cx, cy, w, h, normalised):
         # nothing to do here, only for code completion
         pass 
 
     def __repr__(self) -> str:
-        return f"<{self.__class__.__name__} cx:{self.cx} cy:{self.cy} w:{self.w} h:{self.h}>"
+        return f"<{self.__class__.__name__} cx:{self.cx} cy:{self.cy} w:{self.w} h:{self.h} n:{self.normalised}>"
 
     @classmethod
-    def from_bbox(cls, other: BboxBase): return cls(other.cx, other.cy, other.w, other.h)
+    def from_bbox(cls, other: BboxBase): return cls(other.cx, other.cy, other.w, other.h, other.normalised)
 
     @property
     def cx(self): return self[0]
